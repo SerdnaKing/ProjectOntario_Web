@@ -1,0 +1,24 @@
+# created with CityEngine 2018.0.3929 0503R (based on Esri Procedural Runtime 1.10.4051, build date: Thu 05/03/2018 05:11 PM)
+# creation date: Wed Jul 14 19:24:12 2021
+
+mtllib house.mtl
+
+# mesh 'mesh_CityEngineMaterial_84' from geometry 'mesh_CityEngineMaterial_84'
+v -55.329 -7.522 -11.637
+v -45.730 -7.522 -20.910
+v -50.065 -7.522 -25.366
+v -59.664 -7.522 -16.093
+# 4 vertices
+
+vt 0.0345 0.8789
+vt 0.2148 0.8789
+vt 0.2145 0.1211
+vt 0.0342 0.1211
+# 4 texture coordinates
+
+g CityEngineMaterial_63
+s off
+usemtl CityEngineMaterial_63
+f 1/1 2/2 3/3 4/4
+# 1 face
+

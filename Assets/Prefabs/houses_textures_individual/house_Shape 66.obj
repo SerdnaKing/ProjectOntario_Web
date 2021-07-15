@@ -1,0 +1,91 @@
+# created with CityEngine 2018.0.3929 0503R (based on Esri Procedural Runtime 1.10.4051, build date: Thu 05/03/2018 05:11 PM)
+# creation date: Wed Jul 14 19:24:12 2021
+
+mtllib house.mtl
+
+# mesh 'mesh_CityEngineMaterial_12' from geometry 'mesh_CityEngineMaterial_12'
+v 417.386 -3.433 393.748
+v 414.728 -4.955 391.182
+v 409.494 -4.777 396.508
+v 412.150 -3.255 399.074
+v 414.780 -4.756 401.667
+v 420.015 -4.934 396.341
+# 6 vertices
+
+vt -0.0353 -0.0664
+vt 0.2907 -0.0664
+vt 0.2902 0.5431
+vt -0.0358 0.5432
+vt -0.0439 -0.0130
+vt 0.5657 -0.0130
+vt 0.5632 0.3123
+vt -0.0464 0.3123
+# 8 texture coordinates
+
+g CityEngineMaterial_12
+s off
+usemtl CityEngineMaterial_12
+f 1/1 2/2 3/3 4/4
+f 1/5 4/6 5/7 6/8
+# 2 faces
+
+# mesh 'mesh_CityEngineMaterial_13' from geometry 'mesh_CityEngineMaterial_13'
+v 414.728 -4.955 391.182
+v 414.711 -7.287 391.206
+v 409.476 -7.108 396.532
+v 409.494 -4.777 396.508
+v 414.761 -7.087 401.690
+v 414.780 -4.755 401.667
+v 412.150 -3.255 399.074
+v 419.996 -7.265 396.364
+v 420.015 -4.934 396.341
+v 417.386 -3.433 393.748
+# 10 vertices
+
+vt 0.1247 0.1482
+vt 0.1253 0.1250
+vt 0.2913 0.1268
+vt 0.2907 0.1500
+vt 0.2913 0.2762
+vt 0.2914 0.1250
+vt 0.4580 0.1264
+vt 0.4579 0.2776
+vt 0.3746 0.3750
+vt 0.2920 0.1500
+vt 0.4573 0.1250
+vt 0.4580 0.1482
+vt 0.0414 0.2776
+vt 0.0413 0.1264
+vt 0.2079 0.1250
+vt 0.2080 0.2762
+vt 0.1247 0.3750
+# 17 texture coordinates
+
+g CityEngineMaterial_14
+s off
+usemtl CityEngineMaterial_14
+f 7/9 8/10 9/11 10/12
+f 10/13 9/14 11/15 12/16 13/17
+f 12/18 11/11 14/19 15/20
+f 15/21 14/22 8/23 7/24 16/25
+# 4 faces
+
+# mesh 'mesh_CityEngineMaterial_14' from geometry 'mesh_CityEngineMaterial_14'
+v 414.711 -7.287 391.206
+v 419.996 -7.265 396.364
+v 414.761 -7.087 401.690
+v 409.476 -7.108 396.532
+# 4 vertices
+
+vt 0.5179 0.1133
+vt 0.5176 0.8828
+vt 0.6061 0.8828
+vt 0.6064 0.1133
+# 4 texture coordinates
+
+g CityEngineMaterial_13
+s off
+usemtl CityEngineMaterial_13
+f 17/26 18/27 19/28 20/29
+# 1 face
+

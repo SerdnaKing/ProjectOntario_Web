@@ -1,0 +1,140 @@
+# created with CityEngine 2018.0.3929 0503R (based on Esri Procedural Runtime 1.10.4051, build date: Thu 05/03/2018 05:11 PM)
+# creation date: Wed Jul 14 19:24:12 2021
+
+mtllib house.mtl
+
+# mesh 'mesh_CityEngineMaterial_116' from geometry 'mesh_CityEngineMaterial_116'
+v -485.369 -1.981 -398.744
+v -477.385 -1.981 -391.788
+v -474.270 -0.123 -395.338
+v -482.254 -0.123 -402.294
+v -479.940 -0.122 -404.931
+v -471.956 -0.122 -397.975
+v -469.098 -1.981 -401.233
+v -477.082 -1.981 -408.189
+# 8 vertices
+
+vt -0.0700 -0.0058
+vt 0.7865 -0.0058
+vt 0.7878 0.4047
+vt -0.0687 0.4047
+vt -0.0668 -0.0707
+vt 0.7896 -0.0707
+vt 0.7909 0.3107
+vt -0.0656 0.3107
+# 8 texture coordinates
+
+g CityEngineMaterial_12
+s off
+usemtl CityEngineMaterial_12
+f 1/1 2/2 3/3 4/4
+f 5/5 6/6 7/7 8/8
+# 2 faces
+
+# mesh 'mesh_CityEngineMaterial_117' from geometry 'mesh_CityEngineMaterial_117'
+v -471.956 -0.122 -397.975
+v -474.270 -0.123 -395.339
+v -470.392 -1.140 -399.758
+v -475.974 -1.140 -393.397
+# 4 vertices
+
+vt 0.7500 0.9000
+vt 1.2500 0.9000
+vt 1.1099 1.0000
+vt 0.9026 0.9999
+# 4 texture coordinates
+
+g CityEngineMaterial_83
+s off
+usemtl CityEngineMaterial_83
+f 12/9 11/10 9/11 10/12
+# 1 face
+
+# mesh 'mesh_CityEngineMaterial_118' from geometry 'mesh_CityEngineMaterial_118'
+v -477.385 -1.981 -391.788
+v -477.385 -5.640 -391.788
+v -469.098 -5.640 -401.233
+v -469.098 -1.981 -401.233
+v -470.392 -1.140 -399.758
+v -475.974 -1.140 -393.397
+v -477.082 -5.640 -408.189
+v -477.082 -1.981 -408.189
+v -485.369 -5.640 -398.744
+v -485.369 -1.981 -398.744
+v -483.958 -1.140 -400.353
+v -478.376 -1.140 -406.714
+v -482.254 -0.123 -402.294
+v -479.940 -0.122 -404.931
+# 14 vertices
+
+vt 0.1250 0.6565
+vt 0.1250 0.2500
+vt 0.2917 0.2500
+vt 0.2917 0.6565
+vt 0.2656 0.7500
+vt 0.1534 0.7500
+vt 0.1667 0.7500
+vt 0.1667 0.2500
+vt 0.2917 0.7500
+vt 0.2633 0.7500
+vt 0.1510 0.7500
+vt 0.5312 0.0984
+vt 0.5938 0.0984
+vt 0.5747 0.1484
+vt 0.5488 0.1484
+# 15 texture coordinates
+
+g CityEngineMaterial_82
+s off
+usemtl CityEngineMaterial_82
+f 13/13 14/14 15/15 16/16 17/17 18/18
+f 16/19 15/20 19/15 20/21
+f 20/13 19/14 21/15 22/16 23/22 24/23
+f 24/24 23/25 25/26 26/27
+# 4 faces
+
+# mesh 'mesh_CityEngineMaterial_119' from geometry 'mesh_CityEngineMaterial_119'
+v -485.369 -1.981 -398.744
+v -485.369 -5.640 -398.744
+v -477.385 -5.640 -391.788
+v -477.385 -1.981 -391.788
+# 4 vertices
+
+vt 0.8333 1.0000
+vt 0.8333 0.0000
+vt 1.3333 0.0000
+vt 1.3333 1.0000
+# 4 texture coordinates
+
+g CityEngineMaterial_84
+s off
+usemtl CityEngineMaterial_84
+f 27/28 28/29 29/30 30/31
+# 1 face
+
+# mesh 'mesh_CityEngineMaterial_120' from geometry 'mesh_CityEngineMaterial_120'
+v -482.254 -0.123 -402.294
+v -474.270 -0.123 -395.338
+v -471.956 -0.122 -397.975
+v -479.940 -0.122 -404.931
+v -477.385 -5.640 -391.788
+v -485.369 -5.640 -398.744
+v -477.082 -5.640 -408.189
+v -469.098 -5.640 -401.233
+# 8 vertices
+
+vt 0.0254 0.7969
+vt 0.2234 0.7969
+vt 0.2236 0.2031
+vt 0.0256 0.2031
+vt 0.0260 0.2031
+vt 0.2230 0.7969
+# 6 texture coordinates
+
+g CityEngineMaterial_59
+s off
+usemtl CityEngineMaterial_59
+f 31/32 32/33 33/34 34/35
+f 35/36 36/32 37/37 38/34
+# 2 faces
+

@@ -1,0 +1,90 @@
+# created with CityEngine 2018.0.3929 0503R (based on Esri Procedural Runtime 1.10.4051, build date: Thu 05/03/2018 05:11 PM)
+# creation date: Wed Jul 14 19:24:12 2021
+
+mtllib house.mtl
+
+# mesh 'mesh_CityEngineMaterial_121' from geometry 'mesh_CityEngineMaterial_121'
+v -417.085 -3.005 -348.698
+v -414.573 -4.341 -346.430
+v -410.132 -4.341 -351.315
+v -412.644 -3.005 -353.583
+v -415.156 -4.341 -355.850
+v -419.597 -4.341 -350.965
+# 6 vertices
+
+vt -0.0597 0.0000
+vt 0.2194 0.0000
+vt 0.2211 0.5065
+vt -0.0581 0.5065
+vt -0.0570 -0.0732
+vt 0.4495 -0.0732
+vt 0.4486 0.2059
+vt -0.0579 0.2060
+# 8 texture coordinates
+
+g CityEngineMaterial_38
+s off
+usemtl CityEngineMaterial_38
+f 1/1 2/2 3/3 4/4
+f 1/5 4/6 5/7 6/8
+# 2 faces
+
+# mesh 'mesh_CityEngineMaterial_122' from geometry 'mesh_CityEngineMaterial_122'
+v -414.573 -6.816 -346.430
+v -419.597 -6.816 -350.966
+v -415.156 -6.816 -355.850
+v -410.132 -6.816 -351.315
+v -414.573 -4.341 -346.430
+v -410.132 -4.341 -351.315
+v -415.156 -4.341 -355.850
+v -412.644 -3.005 -353.583
+v -419.597 -4.341 -350.966
+# 9 vertices
+
+vt 0.5135 0.7383
+vt 0.6118 0.7383
+vt 0.6115 0.2617
+vt 0.5132 0.2617
+vt 0.2917 0.1500
+vt 0.2917 0.1250
+vt 0.3750 0.1250
+vt 0.3750 0.1500
+vt 0.1250 0.2874
+vt 0.1250 0.1250
+vt 0.2083 0.1250
+vt 0.2083 0.2874
+vt 0.1667 0.3750
+vt 0.1250 0.1500
+vt 0.2083 0.1500
+# 15 texture coordinates
+
+g CityEngineMaterial_85
+s off
+usemtl CityEngineMaterial_85
+f 7/9 8/10 9/11 10/12
+f 11/13 7/14 10/15 12/16
+f 12/17 10/18 9/19 13/20 14/21
+f 13/22 9/18 8/19 15/23
+# 4 faces
+
+# mesh 'mesh_CityEngineMaterial_123' from geometry 'mesh_CityEngineMaterial_123'
+v -419.597 -4.341 -350.966
+v -419.597 -6.816 -350.966
+v -414.573 -6.816 -346.430
+v -414.573 -4.341 -346.430
+v -417.085 -3.005 -348.698
+# 5 vertices
+
+vt 0.8333 0.6495
+vt 0.8333 0.0000
+vt 1.1667 0.0000
+vt 1.1667 0.6495
+vt 1.0000 1.0000
+# 5 texture coordinates
+
+g CityEngineMaterial_86
+s off
+usemtl CityEngineMaterial_86
+f 16/24 17/25 18/26 19/27 20/28
+# 1 face
+

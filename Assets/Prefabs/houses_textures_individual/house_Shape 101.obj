@@ -1,0 +1,101 @@
+# created with CityEngine 2018.0.3929 0503R (based on Esri Procedural Runtime 1.10.4051, build date: Thu 05/03/2018 05:11 PM)
+# creation date: Wed Jul 14 19:24:12 2021
+
+mtllib house.mtl
+
+# mesh 'mesh_CityEngineMaterial_45' from geometry 'mesh_CityEngineMaterial_45'
+v 184.464 -7.522 207.098
+v 193.077 -7.522 198.209
+v 193.077 -4.419 198.209
+v 184.464 -4.419 207.098
+v 190.116 -7.522 195.361
+v 190.116 -4.419 195.361
+v 191.597 -3.227 196.785
+v 181.503 -7.522 204.250
+v 182.983 -3.227 205.674
+v 181.503 -4.419 204.250
+# 10 vertices
+
+vt 0.5837 0.0625
+vt 0.9170 0.0625
+vt 0.9170 0.0750
+vt 0.5837 0.0750
+vt 0.6670 0.0625
+vt 0.7503 0.0625
+vt 0.7503 0.1528
+vt 0.7087 0.1875
+vt 0.6670 0.1528
+# 9 texture coordinates
+
+g CityEngineMaterial_40
+s off
+usemtl CityEngineMaterial_40
+f 1/1 2/2 3/3 4/4
+f 2/5 5/6 6/7 7/8 3/9
+f 8/5 1/6 4/7 9/8 10/9
+# 3 faces
+
+# mesh 'mesh_CityEngineMaterial_46' from geometry 'mesh_CityEngineMaterial_46'
+v 184.464 -4.419 207.098
+v 193.077 -4.419 198.209
+v 191.596 -3.227 196.785
+v 182.983 -3.227 205.674
+v 190.116 -4.419 195.361
+v 181.503 -4.419 204.250
+# 6 vertices
+
+vt -0.0252 -0.0599
+vt 0.9387 -0.0599
+vt 0.9381 0.1250
+vt -0.0258 0.1250
+vt -0.0408 -0.0401
+vt 0.1441 -0.0401
+vt 0.1472 0.9238
+vt -0.0378 0.9238
+# 8 texture coordinates
+
+g CityEngineMaterial_38
+s off
+usemtl CityEngineMaterial_38
+f 11/10 12/11 13/12 14/13
+f 13/14 15/15 16/16 14/17
+# 2 faces
+
+# mesh 'mesh_CityEngineMaterial_47' from geometry 'mesh_CityEngineMaterial_47'
+v 181.503 -7.522 204.250
+v 190.116 -7.522 195.361
+v 193.077 -7.522 198.209
+v 184.464 -7.522 207.098
+# 4 vertices
+
+vt 0.0264 0.8926
+vt 0.2224 0.8926
+vt 0.2227 0.1075
+vt 0.0266 0.1074
+# 4 texture coordinates
+
+g CityEngineMaterial_39
+s off
+usemtl CityEngineMaterial_39
+f 17/18 18/19 19/20 20/21
+# 1 face
+
+# mesh 'mesh_CityEngineMaterial_48' from geometry 'mesh_CityEngineMaterial_48'
+v 190.116 -7.522 195.361
+v 181.503 -7.522 204.250
+v 181.503 -4.419 204.250
+v 190.116 -4.419 195.361
+# 4 vertices
+
+vt 0.6667 0.0000
+vt 1.3333 0.0000
+vt 1.3333 0.1000
+vt 0.6667 0.1000
+# 4 texture coordinates
+
+g CityEngineMaterial_41
+s off
+usemtl CityEngineMaterial_41
+f 21/22 22/23 23/24 24/25
+# 1 face
+

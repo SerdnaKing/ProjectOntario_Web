@@ -1,0 +1,2684 @@
+newmtl CityEngineMaterial_223
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_5.jpg
+
+newmtl CityEngineMaterial_38
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_7.jpg
+
+newmtl CityEngineMaterial_25
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_7.jpg
+
+newmtl CityEngineMaterial_92
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_035.jpg
+
+newmtl CityEngineMaterial_236
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_10.jpg
+
+newmtl CityEngineMaterial_21
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_3.jpg
+
+newmtl CityEngineMaterial_164
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Residential_000.jpg
+
+newmtl CityEngineMaterial_108
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_32.jpg
+
+newmtl CityEngineMaterial_176
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t001_Residential_000.jpg
+
+newmtl CityEngineMaterial_213
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_58.jpg
+
+newmtl CityEngineMaterial_115
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_20.jpg
+
+newmtl CityEngineMaterial_49
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_16.jpg
+
+newmtl CityEngineMaterial_32
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_10.jpg
+
+newmtl CityEngineMaterial_60
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_18.jpg
+
+newmtl CityEngineMaterial_91
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_28.jpg
+
+newmtl CityEngineMaterial_175
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_026.jpg
+
+newmtl CityEngineMaterial_218
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_38.jpg
+
+newmtl CityEngineMaterial_235
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_65.jpg
+
+newmtl CityEngineMaterial_18
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_5.jpg
+
+newmtl CityEngineMaterial_11
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_027.jpg
+
+newmtl CityEngineMaterial_51
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Residential_004.jpg
+
+newmtl CityEngineMaterial_242
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f005_t005_Residential_000.jpg
+
+newmtl CityEngineMaterial_125
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_012.jpg
+
+newmtl CityEngineMaterial_1
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_0.jpg
+
+newmtl CityEngineMaterial_4
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_4.jpg
+
+newmtl CityEngineMaterial_178
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_16.jpg
+
+newmtl CityEngineMaterial_224
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t005_Residential_000.jpg
+
+newmtl CityEngineMaterial_159
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t004_Residential_001.jpg
+
+newmtl CityEngineMaterial_198
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_55.jpg
+
+newmtl CityEngineMaterial_128
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_018.jpg
+
+newmtl CityEngineMaterial_42
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_14.jpg
+
+newmtl CityEngineMaterial_113
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t005_Residential_001.jpg
+
+newmtl CityEngineMaterial_101
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_31.jpg
+
+newmtl CityEngineMaterial_168
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_47.jpg
+
+newmtl CityEngineMaterial_19
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_5.jpg
+
+newmtl CityEngineMaterial_107
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_025.jpg
+
+newmtl CityEngineMaterial_27
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_022.jpg
+
+newmtl CityEngineMaterial_212
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t004_Residential_006.jpg
+
+newmtl CityEngineMaterial_143
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_004.jpg
+
+newmtl CityEngineMaterial_231
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_63.jpg
+
+newmtl CityEngineMaterial_177
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_036.jpg
+
+newmtl CityEngineMaterial_31
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_10.jpg
+
+newmtl CityEngineMaterial_150
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_43.jpg
+
+newmtl CityEngineMaterial_83
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t004_Residential_002.jpg
+
+newmtl CityEngineMaterial_207
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_2.jpg
+
+newmtl CityEngineMaterial_82
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_25.jpg
+
+newmtl CityEngineMaterial_96
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_30.jpg
+
+newmtl CityEngineMaterial_102
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_031.jpg
+
+newmtl CityEngineMaterial_188
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_52.jpg
+
+newmtl CityEngineMaterial_89
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_7.jpg
+
+newmtl CityEngineMaterial_153
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Residential_001.jpg
+
+newmtl CityEngineMaterial_167
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_006.jpg
+
+newmtl CityEngineMaterial_170
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_48.jpg
+
+newmtl CityEngineMaterial_157
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Residential_004.jpg
+
+newmtl CityEngineMaterial_30
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Residential_000.jpg
+
+newmtl CityEngineMaterial_217
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_61.jpg
+
+newmtl CityEngineMaterial_76
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_23.jpg
+
+newmtl CityEngineMaterial_54
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_011.jpg
+
+newmtl CityEngineMaterial_156
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_45.jpg
+
+newmtl CityEngineMaterial_41
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_014.jpg
+
+newmtl CityEngineMaterial_63
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_2.jpg
+
+newmtl CityEngineMaterial_189
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_015.jpg
+
+newmtl CityEngineMaterial_6
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t003_Residential_000.jpg
+
+newmtl CityEngineMaterial_28
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_9.jpg
+
+newmtl CityEngineMaterial_196
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_002.jpg
+
+newmtl CityEngineMaterial_172
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t002_Residential_003.jpg
+
+newmtl CityEngineMaterial_97
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_30.jpg
+
+newmtl CityEngineMaterial_110
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_33.jpg
+
+newmtl CityEngineMaterial_80
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_24.jpg
+
+newmtl CityEngineMaterial_219
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_000.jpg
+
+newmtl CityEngineMaterial_66
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatRoof_15.jpg
+
+newmtl CityEngineMaterial_226
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t005_Residential_002.jpg
+
+newmtl CityEngineMaterial_116
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_005.jpg
+
+newmtl CityEngineMaterial_222
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_033.jpg
+
+newmtl CityEngineMaterial_211
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_008.jpg
+
+newmtl CityEngineMaterial_56
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_3.jpg
+
+newmtl CityEngineMaterial_121
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_35.jpg
+
+newmtl CityEngineMaterial_33
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_11.jpg
+
+newmtl CityEngineMaterial_140
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_40.jpg
+
+newmtl CityEngineMaterial_52
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_6.jpg
+
+newmtl CityEngineMaterial_161
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_22.jpg
+
+newmtl CityEngineMaterial_163
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_001.jpg
+
+newmtl CityEngineMaterial_127
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_26.jpg
+
+newmtl CityEngineMaterial_87
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_27.jpg
+
+newmtl CityEngineMaterial_10
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_2.jpg
+
+newmtl CityEngineMaterial_214
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_59.jpg
+
+newmtl CityEngineMaterial_165
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_009.jpg
+
+newmtl CityEngineMaterial_43
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t005_Residential_003.jpg
+
+newmtl CityEngineMaterial_55
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_17.jpg
+
+newmtl CityEngineMaterial_120
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_002.jpg
+
+newmtl CityEngineMaterial_155
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t003_Residential_003.jpg
+
+newmtl CityEngineMaterial_65
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_008.jpg
+
+newmtl CityEngineMaterial_208
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t002_Residential_002.jpg
+
+newmtl CityEngineMaterial_118
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_34.jpg
+
+newmtl CityEngineMaterial_220
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t003_Residential_009.jpg
+
+newmtl CityEngineMaterial_179
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Residential_003.jpg
+
+newmtl CityEngineMaterial_103
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_004.jpg
+
+newmtl CityEngineMaterial
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_2.jpg
+
+newmtl CityEngineMaterial_105
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_29.jpg
+
+newmtl CityEngineMaterial_138
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_010.jpg
+
+newmtl CityEngineMaterial_88
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_27.jpg
+
+newmtl CityEngineMaterial_243
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_003.jpg
+
+newmtl CityEngineMaterial_183
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_42.jpg
+
+newmtl CityEngineMaterial_44
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_14.jpg
+
+newmtl CityEngineMaterial_194
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t005_Residential_000.jpg
+
+newmtl CityEngineMaterial_39
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_13.jpg
+
+newmtl CityEngineMaterial_58
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_005.jpg
+
+newmtl CityEngineMaterial_37
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_12.jpg
+
+newmtl CityEngineMaterial_173
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_49.jpg
+
+newmtl CityEngineMaterial_169
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_18.jpg
+
+newmtl CityEngineMaterial_203
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_56.jpg
+
+newmtl CityEngineMaterial_131
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_38.jpg
+
+newmtl CityEngineMaterial_237
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_66.jpg
+
+newmtl CityEngineMaterial_210
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatRoof_13.jpg
+
+newmtl CityEngineMaterial_8
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_1.jpg
+
+newmtl CityEngineMaterial_106
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_000.jpg
+
+newmtl CityEngineMaterial_148
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_29.jpg
+
+newmtl CityEngineMaterial_114
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_11.jpg
+
+newmtl CityEngineMaterial_233
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_64.jpg
+
+newmtl CityEngineMaterial_234
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_4.jpg
+
+newmtl CityEngineMaterial_95
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_29.jpg
+
+newmtl CityEngineMaterial_84
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_007.jpg
+
+newmtl CityEngineMaterial_70
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_006.jpg
+
+newmtl CityEngineMaterial_59
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_18.jpg
+
+newmtl CityEngineMaterial_160
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t002_Residential_003.jpg
+
+newmtl CityEngineMaterial_190
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_36.jpg
+
+newmtl CityEngineMaterial_119
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_10.jpg
+
+newmtl CityEngineMaterial_132
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t003_Residential_008.jpg
+
+newmtl CityEngineMaterial_134
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_013.jpg
+
+newmtl CityEngineMaterial_130
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_38.jpg
+
+newmtl CityEngineMaterial_191
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_53.jpg
+
+newmtl CityEngineMaterial_145
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_42.jpg
+
+newmtl CityEngineMaterial_202
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_26.jpg
+
+newmtl CityEngineMaterial_94
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_29.jpg
+
+newmtl CityEngineMaterial_147
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_42.jpg
+
+newmtl CityEngineMaterial_215
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_002.jpg
+
+newmtl CityEngineMaterial_135
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f010_t002_Residential_000.jpg
+
+newmtl CityEngineMaterial_142
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_016.jpg
+
+newmtl CityEngineMaterial_53
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t002_Residential_002.jpg
+
+newmtl CityEngineMaterial_201
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_003.jpg
+
+newmtl CityEngineMaterial_16
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_4.jpg
+
+newmtl CityEngineMaterial_5
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_1.jpg
+
+newmtl CityEngineMaterial_228
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t005_Residential_001.jpg
+
+newmtl CityEngineMaterial_72
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_007.jpg
+
+newmtl CityEngineMaterial_90
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_28.jpg
+
+newmtl CityEngineMaterial_68
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_20.jpg
+
+newmtl CityEngineMaterial_199
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t003_Residential_005.jpg
+
+newmtl CityEngineMaterial_104
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_15.jpg
+
+newmtl CityEngineMaterial_13
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_3.jpg
+
+newmtl CityEngineMaterial_73
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_21.jpg
+
+newmtl CityEngineMaterial_34
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_11.jpg
+
+newmtl CityEngineMaterial_100
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_31.jpg
+
+newmtl CityEngineMaterial_182
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_23.jpg
+
+newmtl CityEngineMaterial_14
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_3.jpg
+
+newmtl CityEngineMaterial_71
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_21.jpg
+
+newmtl CityEngineMaterial_93
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatRoof_10.jpg
+
+newmtl CityEngineMaterial_230
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_003.jpg
+
+newmtl CityEngineMaterial_74
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_22.jpg
+
+newmtl CityEngineMaterial_112
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_4.jpg
+
+newmtl CityEngineMaterial_193
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_9.jpg
+
+newmtl CityEngineMaterial_180
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_50.jpg
+
+newmtl CityEngineMaterial_185
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_51.jpg
+
+newmtl CityEngineMaterial_192
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_23.jpg
+
+newmtl CityEngineMaterial_20
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_5.jpg
+
+newmtl CityEngineMaterial_137
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_22.jpg
+
+newmtl CityEngineMaterial_152
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Residential_005.jpg
+
+newmtl CityEngineMaterial_48
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_15.jpg
+
+newmtl CityEngineMaterial_221
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_002.jpg
+
+newmtl CityEngineMaterial_141
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_40.jpg
+
+newmtl CityEngineMaterial_50
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_16.jpg
+
+newmtl CityEngineMaterial_229
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_62.jpg
+
+newmtl CityEngineMaterial_238
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_023.jpg
+
+newmtl CityEngineMaterial_26
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_8.jpg
+
+newmtl CityEngineMaterial_81
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_006.jpg
+
+newmtl CityEngineMaterial_57
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t004_Residential_005.jpg
+
+newmtl CityEngineMaterial_126
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_36.jpg
+
+newmtl CityEngineMaterial_85
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_26.jpg
+
+newmtl CityEngineMaterial_45
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t004_Residential_003.jpg
+
+newmtl CityEngineMaterial_158
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t005_Residential_001.jpg
+
+newmtl CityEngineMaterial_146
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_012.jpg
+
+newmtl CityEngineMaterial_186
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_52.jpg
+
+newmtl CityEngineMaterial_15
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_005.jpg
+
+newmtl CityEngineMaterial_117
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_34.jpg
+
+newmtl CityEngineMaterial_98
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_034.jpg
+
+newmtl CityEngineMaterial_47
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_003.jpg
+
+newmtl CityEngineMaterial_144
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_41.jpg
+
+newmtl CityEngineMaterial_151
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_43.jpg
+
+newmtl CityEngineMaterial_195
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_54.jpg
+
+newmtl CityEngineMaterial_205
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_009.jpg
+
+newmtl CityEngineMaterial_67
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_20.jpg
+
+newmtl CityEngineMaterial_204
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_0.jpg
+
+newmtl CityEngineMaterial_7
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_004.jpg
+
+newmtl CityEngineMaterial_17
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_4.jpg
+
+newmtl CityEngineMaterial_225
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_8.jpg
+
+newmtl CityEngineMaterial_61
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_9.jpg
+
+newmtl CityEngineMaterial_29
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_9.jpg
+
+newmtl CityEngineMaterial_75
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_22.jpg
+
+newmtl CityEngineMaterial_197
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_55.jpg
+
+newmtl CityEngineMaterial_232
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_38.jpg
+
+newmtl CityEngineMaterial_124
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_36.jpg
+
+newmtl CityEngineMaterial_216
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_60.jpg
+
+newmtl CityEngineMaterial_240
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t003_Residential_000.jpg
+
+newmtl CityEngineMaterial_139
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_010.jpg
+
+newmtl CityEngineMaterial_174
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_24.jpg
+
+newmtl CityEngineMaterial_136
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_39.jpg
+
+newmtl CityEngineMaterial_78
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_007.jpg
+
+newmtl CityEngineMaterial_149
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_000.jpg
+
+newmtl CityEngineMaterial_3
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_0.jpg
+
+newmtl CityEngineMaterial_24
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_7.jpg
+
+newmtl CityEngineMaterial_35
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatRoof_26.jpg
+
+newmtl CityEngineMaterial_239
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_66.jpg
+
+newmtl CityEngineMaterial_40
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_13.jpg
+
+newmtl CityEngineMaterial_86
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_017.jpg
+
+newmtl CityEngineMaterial_184
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_011.jpg
+
+newmtl CityEngineMaterial_109
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_000.jpg
+
+newmtl CityEngineMaterial_171
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_49.jpg
+
+newmtl CityEngineMaterial_23
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_6.jpg
+
+newmtl CityEngineMaterial_77
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_23.jpg
+
+newmtl CityEngineMaterial_22
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_6.jpg
+
+newmtl CityEngineMaterial_200
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_30.jpg
+
+newmtl CityEngineMaterial_181
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_6.jpg
+
+newmtl CityEngineMaterial_122
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_015.jpg
+
+newmtl CityEngineMaterial_227
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_013.jpg
+
+newmtl CityEngineMaterial_209
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Residential_004.jpg
+
+newmtl CityEngineMaterial_187
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Residential_002.jpg
+
+newmtl CityEngineMaterial_64
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_11.jpg
+
+newmtl CityEngineMaterial_129
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_37.jpg
+
+newmtl CityEngineMaterial_206
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_57.jpg
+
+newmtl CityEngineMaterial_79
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_24.jpg
+
+newmtl CityEngineMaterial_154
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_44.jpg
+
+newmtl CityEngineMaterial_36
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_12.jpg
+
+newmtl CityEngineMaterial_133
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_13.jpg
+
+newmtl CityEngineMaterial_166
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_46.jpg
+
+newmtl CityEngineMaterial_69
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_001.jpg
+
+newmtl CityEngineMaterial_111
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t004_Residential_000.jpg
+
+newmtl CityEngineMaterial_2
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t002_Residential_000.jpg
+
+newmtl CityEngineMaterial_62
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_19.jpg
+
+newmtl CityEngineMaterial_99
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t005_Residential_000.jpg
+
+newmtl CityEngineMaterial_46
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_15.jpg
+
+newmtl CityEngineMaterial_162
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_010.jpg
+
+newmtl CityEngineMaterial_9
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_2.jpg
+
+newmtl CityEngineMaterial_12
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_6.jpg
+
+newmtl CityEngineMaterial_241
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd house_textureatlas_7.jpg
+
+newmtl CityEngineMaterial_123
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f013_t004_Residential_000.jpg
+

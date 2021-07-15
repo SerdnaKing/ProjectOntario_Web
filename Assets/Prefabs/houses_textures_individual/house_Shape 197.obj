@@ -1,0 +1,105 @@
+# created with CityEngine 2018.0.3929 0503R (based on Esri Procedural Runtime 1.10.4051, build date: Thu 05/03/2018 05:11 PM)
+# creation date: Wed Jul 14 19:24:12 2021
+
+mtllib house.mtl
+
+# mesh 'mesh_CityEngineMaterial_130' from geometry 'mesh_CityEngineMaterial_130'
+v -372.570 -7.522 -304.126
+v -372.570 -5.162 -304.126
+v -374.743 -3.454 -305.965
+v -376.915 -5.109 -307.803
+v -376.915 -7.522 -307.803
+# 5 vertices
+
+vt 1.1667 0.0000
+vt 1.1667 0.5801
+vt 1.0000 1.0000
+vt 0.8333 0.5932
+vt 0.8333 0.0000
+# 5 texture coordinates
+
+g CityEngineMaterial_92
+s off
+usemtl CityEngineMaterial_92
+f 1/1 2/2 3/3 4/4 5/5
+# 1 face
+
+# mesh 'mesh_CityEngineMaterial_131' from geometry 'mesh_CityEngineMaterial_131'
+v -376.915 -5.109 -307.803
+v -374.743 -3.454 -305.965
+v -369.885 -3.454 -311.524
+v -372.128 -5.162 -313.422
+v -372.570 -5.162 -304.126
+v -367.782 -5.107 -309.745
+# 6 vertices
+
+vt -0.0225 -0.0697
+vt 0.2084 -0.0697
+vt 0.2155 0.4481
+vt -0.0229 0.4480
+vt -0.0494 -0.0621
+vt 0.4684 -0.0621
+vt 0.4652 0.1707
+vt -0.0525 0.1632
+# 8 texture coordinates
+
+g CityEngineMaterial
+s off
+usemtl CityEngineMaterial
+f 6/6 7/7 8/8 9/9
+f 8/10 7/11 10/12 11/13
+# 2 faces
+
+# mesh 'mesh_CityEngineMaterial_132' from geometry 'mesh_CityEngineMaterial_132'
+v -376.915 -7.522 -307.803
+v -376.915 -5.109 -307.803
+v -372.128 -5.162 -313.422
+v -372.128 -7.522 -313.422
+v -369.885 -3.454 -311.524
+v -367.782 -5.107 -309.745
+v -367.782 -7.522 -309.745
+v -372.570 -5.162 -304.126
+v -372.570 -7.522 -304.126
+# 9 vertices
+
+vt 0.2500 0.1250
+vt 0.2500 0.1500
+vt 0.1667 0.1494
+vt 0.1667 0.1250
+vt 0.3333 0.1250
+vt 0.3333 0.2700
+vt 0.2903 0.3750
+vt 0.2500 0.2734
+vt 0.2083 0.1250
+vt 0.2083 0.1500
+vt 0.1250 0.1494
+vt 0.1250 0.1250
+# 12 texture coordinates
+
+g CityEngineMaterial_91
+s off
+usemtl CityEngineMaterial_91
+f 12/14 13/15 14/16 15/17
+f 15/18 14/19 16/20 17/21 18/14
+f 18/22 17/23 19/24 20/25
+# 3 faces
+
+# mesh 'mesh_CityEngineMaterial_133' from geometry 'mesh_CityEngineMaterial_133'
+v -372.570 -7.522 -304.126
+v -376.915 -7.522 -307.803
+v -372.128 -7.522 -313.422
+v -367.782 -7.522 -309.745
+# 4 vertices
+
+vt 0.5139 0.1055
+vt 0.5137 0.8945
+vt 0.6111 0.8945
+vt 0.6113 0.1055
+# 4 texture coordinates
+
+g CityEngineMaterial_90
+s off
+usemtl CityEngineMaterial_90
+f 21/26 22/27 23/28 24/29
+# 1 face
+

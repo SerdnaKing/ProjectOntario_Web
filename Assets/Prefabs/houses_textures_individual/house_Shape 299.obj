@@ -1,0 +1,108 @@
+# created with CityEngine 2018.0.3929 0503R (based on Esri Procedural Runtime 1.10.4051, build date: Thu 05/03/2018 05:11 PM)
+# creation date: Wed Jul 14 19:24:13 2021
+
+mtllib house.mtl
+
+# mesh 'mesh_CityEngineMaterial_429' from geometry 'mesh_CityEngineMaterial_429'
+v -332.454 -3.780 -264.594
+v -331.858 -5.266 -261.469
+v -322.929 -5.266 -271.834
+v -325.949 -3.780 -272.039
+v -326.597 -5.266 -274.972
+v -335.527 -5.266 -264.607
+# 6 vertices
+
+vt 0.3141 -0.0146
+vt 0.5568 -0.0146
+vt 0.0240 0.7667
+vt -0.0676 0.5523
+vt 0.0723 -0.0429
+vt 0.7557 -0.0429
+vt 0.8789 0.1532
+vt -0.0667 0.1476
+vt -0.0260 -0.0121
+vt 0.2057 -0.0121
+vt 0.2129 0.2209
+vt -0.0642 -0.0517
+vt 0.1785 -0.0517
+vt 0.1719 0.1841
+# 14 texture coordinates
+
+g CityEngineMaterial
+s off
+usemtl CityEngineMaterial
+f 1/1 2/2 3/3 4/4
+f 1/5 4/6 5/7 6/8
+f 5/9 4/10 3/11
+f 2/12 1/13 6/14
+# 4 faces
+
+# mesh 'mesh_CityEngineMaterial_430' from geometry 'mesh_CityEngineMaterial_430'
+v -322.929 -5.266 -271.834
+v -322.929 -7.757 -271.834
+v -326.597 -7.757 -274.972
+v -326.597 -5.266 -274.972
+v -335.527 -5.266 -264.607
+v -335.527 -7.757 -264.607
+v -331.858 -7.757 -261.469
+v -331.858 -5.266 -261.469
+# 8 vertices
+
+vt 0.1250 0.2750
+vt 0.1250 0.2500
+vt 0.2500 0.2500
+vt 0.2500 0.2750
+vt 0.3750 0.2500
+vt 0.3750 0.2750
+# 6 texture coordinates
+
+g CityEngineMaterial_3
+s off
+usemtl CityEngineMaterial_3
+f 7/15 8/16 9/17 10/18
+f 11/18 12/17 13/19 14/20
+# 2 faces
+
+# mesh 'mesh_CityEngineMaterial_431' from geometry 'mesh_CityEngineMaterial_431'
+v -331.858 -7.757 -261.469
+v -335.527 -7.757 -264.607
+v -326.597 -7.757 -274.972
+v -322.929 -7.757 -271.834
+# 4 vertices
+
+vt 0.5532 0.0508
+vt 0.5527 0.4492
+vt 0.9448 0.4492
+vt 0.9453 0.0508
+# 4 texture coordinates
+
+g CityEngineMaterial_204
+s off
+usemtl CityEngineMaterial_204
+f 15/21 16/22 17/23 18/24
+# 1 face
+
+# mesh 'mesh_CityEngineMaterial_432' from geometry 'mesh_CityEngineMaterial_432'
+v -331.858 -5.266 -261.469
+v -331.858 -7.757 -261.469
+v -322.929 -7.757 -271.834
+v -322.929 -5.266 -271.834
+v -326.597 -5.266 -274.972
+v -326.597 -7.757 -274.972
+v -335.527 -7.757 -264.607
+v -335.527 -5.266 -264.607
+# 8 vertices
+
+vt 0.0000 0.0500
+vt 0.0000 0.0000
+vt 2.0000 0.0000
+vt 2.0000 0.0500
+# 4 texture coordinates
+
+g CityEngineMaterial_2
+s off
+usemtl CityEngineMaterial_2
+f 19/25 20/26 21/27 22/28
+f 23/25 24/26 25/27 26/28
+# 2 faces
+

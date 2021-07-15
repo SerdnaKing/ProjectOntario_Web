@@ -1,0 +1,108 @@
+# created with CityEngine 2018.0.3929 0503R (based on Esri Procedural Runtime 1.10.4051, build date: Thu 05/03/2018 05:11 PM)
+# creation date: Wed Jul 14 19:24:12 2021
+
+mtllib house.mtl
+
+# mesh 'mesh_CityEngineMaterial_54' from geometry 'mesh_CityEngineMaterial_54'
+v 55.220 -4.575 36.943
+v 55.220 -7.287 36.943
+v 62.328 -7.287 30.243
+v 62.328 -4.575 30.243
+v 59.371 -4.575 27.127
+v 59.371 -7.287 27.127
+v 52.262 -7.287 33.827
+v 52.262 -4.575 33.827
+# 8 vertices
+
+vt 0.3333 0.1000
+vt 0.3333 0.0000
+vt 1.3333 0.0000
+vt 1.3333 0.1000
+vt 0.6667 0.1000
+vt 0.6667 0.0000
+vt 1.6667 0.0000
+vt 1.6667 0.1000
+# 8 texture coordinates
+
+g CityEngineMaterial_47
+s off
+usemtl CityEngineMaterial_47
+f 1/1 2/2 3/3 4/4
+f 5/5 6/6 7/7 8/8
+# 2 faces
+
+# mesh 'mesh_CityEngineMaterial_55' from geometry 'mesh_CityEngineMaterial_55'
+v 53.741 -3.543 35.385
+v 55.220 -4.575 36.943
+v 62.329 -4.575 30.243
+v 60.850 -3.543 28.685
+v 59.371 -4.575 27.127
+v 52.262 -4.575 33.827
+# 6 vertices
+
+vt -0.0846 -0.0753
+vt 0.1406 -0.0753
+vt 0.1435 0.8477
+vt -0.0816 0.8478
+vt -0.0513 -0.0451
+vt 0.8717 -0.0451
+vt 0.8710 0.1801
+vt -0.0520 0.1800
+# 8 texture coordinates
+
+g CityEngineMaterial_4
+s off
+usemtl CityEngineMaterial_4
+f 9/9 10/10 11/11 12/12
+f 9/13 12/14 13/15 14/16
+# 2 faces
+
+# mesh 'mesh_CityEngineMaterial_56' from geometry 'mesh_CityEngineMaterial_56'
+v 55.220 -7.287 36.943
+v 52.262 -7.287 33.827
+v 59.371 -7.287 27.127
+v 62.328 -7.287 30.243
+# 4 vertices
+
+vt 0.5257 0.1328
+vt 0.5254 0.8594
+vt 0.7243 0.8594
+vt 0.7246 0.1328
+# 4 texture coordinates
+
+g CityEngineMaterial_46
+s off
+usemtl CityEngineMaterial_46
+f 15/17 16/18 17/19 18/20
+# 1 face
+
+# mesh 'mesh_CityEngineMaterial_57' from geometry 'mesh_CityEngineMaterial_57'
+v 62.328 -4.575 30.243
+v 62.328 -7.287 30.243
+v 59.371 -7.287 27.127
+v 59.371 -4.575 27.127
+v 60.850 -3.543 28.685
+v 52.262 -4.575 33.827
+v 52.262 -7.287 33.827
+v 55.220 -7.287 36.943
+v 55.220 -4.575 36.943
+v 53.741 -3.543 35.385
+# 10 vertices
+
+vt 0.1250 0.6122
+vt 0.1250 0.2500
+vt 0.2083 0.2500
+vt 0.2083 0.6122
+vt 0.1667 0.7500
+vt 0.2917 0.2500
+vt 0.2917 0.6122
+vt 0.2500 0.7500
+# 8 texture coordinates
+
+g CityEngineMaterial_48
+s off
+usemtl CityEngineMaterial_48
+f 19/21 20/22 21/23 22/24 23/25
+f 24/24 25/23 26/26 27/27 28/28
+# 2 faces
+

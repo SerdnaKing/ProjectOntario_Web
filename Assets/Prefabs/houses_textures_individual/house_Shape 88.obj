@@ -1,0 +1,106 @@
+# created with CityEngine 2018.0.3929 0503R (based on Esri Procedural Runtime 1.10.4051, build date: Thu 05/03/2018 05:11 PM)
+# creation date: Wed Jul 14 19:24:12 2021
+
+mtllib house.mtl
+
+# mesh 'mesh_CityEngineMaterial_28' from geometry 'mesh_CityEngineMaterial_28'
+v 278.683 -7.522 268.722
+v 285.582 -7.522 275.413
+v 279.706 -7.522 281.429
+v 272.806 -7.522 274.736
+v 278.683 -3.921 268.722
+v 272.806 -3.921 274.736
+v 279.706 -3.921 281.429
+v 278.321 -3.022 280.085
+v 274.916 -3.022 276.782
+v 276.971 -2.146 278.776
+v 285.582 -3.921 275.413
+v 282.847 -2.146 272.761
+v 280.792 -3.022 270.768
+v 284.197 -3.022 274.070
+# 14 vertices
+
+vt 0.0280 0.8789
+vt 0.2227 0.8789
+vt 0.2221 0.1211
+vt 0.0273 0.1211
+vt 0.2707 0.3750
+vt 0.2707 0.1250
+vt 0.3540 0.1250
+vt 0.3540 0.3750
+vt 0.3540 0.3251
+vt 0.4790 0.1250
+vt 0.4790 0.3251
+vt 0.4539 0.3750
+vt 0.3922 0.3750
+vt 0.5124 0.0492
+vt 0.5624 0.0492
+vt 0.5426 0.0742
+vt 0.3123 0.3750
+vt 0.3123 0.1250
+vt 0.3957 0.1250
+vt 0.3957 0.3750
+vt 0.6124 0.0492
+vt 0.5822 0.0742
+# 22 texture coordinates
+
+g CityEngineMaterial_26
+s off
+usemtl CityEngineMaterial_26
+f 1/1 2/2 3/3 4/4
+f 5/5 1/6 4/7 6/8
+f 6/9 4/7 3/10 7/11 8/12 9/13
+f 9/14 8/15 10/16
+f 7/17 3/18 2/19 11/20
+f 14/15 13/21 12/22
+# 6 faces
+
+# mesh 'mesh_CityEngineMaterial_29' from geometry 'mesh_CityEngineMaterial_29'
+v 285.582 -3.921 275.413
+v 285.582 -7.522 275.413
+v 278.683 -7.522 268.722
+v 278.683 -3.921 268.722
+v 280.792 -3.022 270.768
+v 284.197 -3.022 274.070
+# 6 vertices
+
+vt 0.8333 0.8003
+vt 0.8333 0.0000
+vt 1.3333 0.0000
+vt 1.3333 0.8003
+vt 1.1805 1.0000
+vt 0.9337 1.0000
+# 6 texture coordinates
+
+g CityEngineMaterial_27
+s off
+usemtl CityEngineMaterial_27
+f 15/23 16/24 17/25 18/26 19/27 20/28
+# 1 face
+
+# mesh 'mesh_CityEngineMaterial_30' from geometry 'mesh_CityEngineMaterial_30'
+v 282.847 -2.146 272.761
+v 278.683 -3.921 268.722
+v 272.806 -3.921 274.736
+v 276.971 -2.146 278.776
+v 279.706 -3.921 281.429
+v 285.582 -3.921 275.413
+# 6 vertices
+
+vt -0.0246 -0.0273
+vt 0.4291 -0.0273
+vt 0.4313 0.6015
+vt -0.0224 0.6014
+vt -0.0079 -0.0658
+vt 0.6208 -0.0658
+vt 0.6198 0.2484
+vt -0.0090 0.2484
+# 8 texture coordinates
+
+g CityEngineMaterial_8
+s off
+usemtl CityEngineMaterial_8
+f 21/29 22/30 23/31 24/32
+f 21/33 24/34 25/35 26/36
+# 2 faces
+
