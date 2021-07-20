@@ -1,5 +1,5 @@
 /* Noah Richards
- * 7/13/2021 - 7/16/2021
+ * 7/13/2021 - 7/20/2021
  * CameraSwitch.cs - Camera Switching Code for Project Ontario
  */
 
@@ -17,12 +17,15 @@ public class CameraSwitch : MonoBehaviour
     /// <param name="camName">The Camera's name.</param>
     private void SwitchCamera(string camName)
     {
+        bool foundCam = false;
+
         foreach (GameObject cam in camList)
         {
             // Enable the current camera if its name matches the one given
             if (cam.name == camName)
             {
                 cam.SetActive(true);
+                foundCam = true;
             }
             // Otherwise, disable it
             else
@@ -30,6 +33,9 @@ public class CameraSwitch : MonoBehaviour
                 cam.SetActive(false);
             }
         }
+
+        if (!foundCam)
+            Debug.Log("ERROR: Camera with name " + camName + " not found in camList!");
     }
 
     private void SwitchCamera(int camIndex)
@@ -77,6 +83,10 @@ public class CameraSwitch : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.Alpha3))
         {
             SwitchCamera("camNeighborhood");
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            SwitchCamera("camFlyAround");
         }
     }
 }
