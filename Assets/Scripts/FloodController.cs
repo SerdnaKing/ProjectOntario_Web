@@ -42,7 +42,7 @@ public class FloodController : MonoBehaviour
 
         //note:  must use (int) or else the float digits flicker
 
-        GUI.Box(new Rect(300, 10, 240, 22), "Approximate Water Level: " + (245 + (UISlider.value * 3.28)) + " ft");
+        GUI.Box(new Rect(300, 10, 240, 22), "Approximate Water Level: " + Mathf.Round((245 + (UISlider.value * 3.28f)) * 100.0f)*0.01f + " ft");
     }
 
 }
