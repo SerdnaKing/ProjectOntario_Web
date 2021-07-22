@@ -254,6 +254,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -468,6 +469,7 @@ GameObject:
   - component: {fileID: 114963311885979670}
   - component: {fileID: 114497868231759342}
   - component: {fileID: 114762042097486276}
+  - component: {fileID: 2230944859644094852}
   m_Layer: 0
   m_Name: First person controller full
   m_TagString: Untagged
@@ -574,6 +576,22 @@ MonoBehaviour:
   groundCheck: {fileID: 114503055206606986}
   character: {fileID: 114963311885979670}
   key: 306
+--- !u!114 &2230944859644094852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773623360729482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61bed7c868699a04da76b87f068c977d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lakeSideSandbags: {fileID: 0}
+  lakeSideSandbagsToggle: {fileID: 0}
+  pondSideSandbags: {fileID: 0}
+  pondSideSandbagsToggle: {fileID: 0}
 --- !u!1 &1963958859065967600
 GameObject:
   m_ObjectHideFlags: 0
