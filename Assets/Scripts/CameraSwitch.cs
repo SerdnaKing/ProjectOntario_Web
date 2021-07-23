@@ -1,6 +1,6 @@
 /* Noah Richards
- * 7/13/2021 - 7/20/2021
- * CameraSwitch.cs - Camera Switching Code for Project Ontario
+ * 7/13/2021 - 7/23/2021
+ * CameraSwitch.cs - Camera Switching Code for Project Lake Ontario
  */
 
 using System.Collections;
