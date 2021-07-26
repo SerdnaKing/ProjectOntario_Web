@@ -7,6 +7,10 @@ public class FloodController : MonoBehaviour
 {
 
     public Slider UISlider;
+    public GameObject PondWaterMask;
+    public GameObject LakeWaterMask;
+    public GameObject PondSandbags;
+    public GameObject LakeSandbags;
 
 
     // Update is called once per frame
@@ -30,6 +34,33 @@ public class FloodController : MonoBehaviour
       }*/
 
         this.transform.position = new Vector3(this.transform.position.x, UISlider.value - 10.28f, this.transform.position.z);
+
+        if (this.transform.position.y >= -8.5 && LakeSandbags.activeSelf == true)
+        {
+            LakeWaterMask.SetActive(false);
+        }
+        else if(LakeSandbags.activeSelf == false)
+        {
+            LakeWaterMask.SetActive(false);
+        }
+        else
+        {
+            LakeWaterMask.SetActive(true);
+        }
+
+
+        if (this.transform.position.y >= -9 && PondSandbags.activeSelf == true)
+        {
+            PondWaterMask.SetActive(false);
+        }
+        else if(PondSandbags.activeSelf == false)
+        {
+            PondWaterMask.SetActive(false);
+        }
+        else
+        {
+            PondWaterMask.SetActive(true);
+        }
     }
 
 
