@@ -344,6 +344,7 @@ GameObject:
   - component: {fileID: 81448068208000304}
   - component: {fileID: 114657890492222300}
   - component: {fileID: 114103969153859672}
+  - component: {fileID: 1748402895593268549}
   m_Layer: 0
   m_Name: First person camera
   m_TagString: MainCamera
@@ -455,6 +456,20 @@ MonoBehaviour:
   defaultFOV: 0
   maxZoom: 15
   zoomAmount: 0
+--- !u!114 &1748402895593268549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1593727746557118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35ea1b9e7f2e101439a755010645197f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sandbagPrefab: {fileID: 4389605761260285972, guid: c356e8ab3de4b2d4ea6810367c6a9b6e, type: 3}
+  placeDist: 6
 --- !u!1 &1773623360729482
 GameObject:
   m_ObjectHideFlags: 0
