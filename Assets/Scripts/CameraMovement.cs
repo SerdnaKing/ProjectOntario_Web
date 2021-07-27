@@ -24,6 +24,7 @@ public class CameraMovement : MonoBehaviour
 
     void Start()
     {
+        // Initialize the camera's position and collision
         transform.rotation = Quaternion.identity;
         collider = GetComponent<Rigidbody>();
         //Cursor.lockState = CursorLockMode.Locked;
@@ -39,7 +40,7 @@ public class CameraMovement : MonoBehaviour
         currentMouseLook += appliedMouseDelta;
         currentMouseLook.y = Mathf.Clamp(currentMouseLook.y, -90, 90);
 
-        // Rotate camera
+        // Rotate the camera to match the user's mouse movements
         transform.localRotation = Quaternion.Euler(-currentMouseLook.y, currentMouseLook.x, 0);
         //transform.Rotate(-smoothMouseDelta.y, smoothMouseDelta.x, 0, Space.Self);
 
@@ -47,6 +48,7 @@ public class CameraMovement : MonoBehaviour
         if (Input.GetKey(boostKey))
             currentSpeed *= 5;
 
+        // Set the camera collider's velocity based on the user's 
         collider.velocity = Vector3.zero;
         collider.velocity += currentSpeed * (transform.forward * Input.GetAxis("Vertical"));
         collider.velocity += currentSpeed * (transform.right * Input.GetAxis("Horizontal"));

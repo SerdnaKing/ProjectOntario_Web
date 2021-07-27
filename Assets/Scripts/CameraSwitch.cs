@@ -38,10 +38,15 @@ public class CameraSwitch : MonoBehaviour
             Debug.Log("ERROR: Camera with name " + camName + " not found in camList!");
     }
 
+    /// <summary>
+    /// Switches to the Camera in camList at the index given.
+    /// </summary>
+    /// <param name="camIndex">The Camera's index.</param>
     private void SwitchCamera(int camIndex)
     {
         if (camIndex >= 0 && camIndex < camList.Count)
         {
+            /*
             foreach (GameObject cam in camList)
             {
                 if (cam != camList[camIndex])
@@ -50,6 +55,20 @@ public class CameraSwitch : MonoBehaviour
                 }
             }
             camList[camIndex].SetActive(true);
+            */
+            // Go through each GameObject in camList
+            for (int i = 0; i < camList.Count; i++)
+            {
+                // If camIndex doesn't match the current index, disable the current GameObject
+                if (i != camIndex)
+                {
+                    camList[i].SetActive(false);
+                    continue;
+                }
+
+                // Otherwise, enable it!
+                camList[i].SetActive(true);
+            }
         }
         else
         {
@@ -74,19 +93,19 @@ public class CameraSwitch : MonoBehaviour
         }
         else if (Input.GetKeyDown(KeyCode.Alpha1))
         {
-            SwitchCamera("camShoreline");
+            SwitchCamera(1);
         }
         else if (Input.GetKeyDown(KeyCode.Alpha2))
         {
-            SwitchCamera("camStreetview");
+            SwitchCamera(2);
         }
         else if (Input.GetKeyDown(KeyCode.Alpha3))
         {
-            SwitchCamera("camNeighborhood");
+            SwitchCamera(3);
         }
         else if (Input.GetKeyDown(KeyCode.Alpha4))
         {
-            SwitchCamera("camFlyAround");
+            SwitchCamera(4);
         }
     }
 }
