@@ -5,29 +5,63 @@ using UnityEngine;
 public class PlayerSandbag : MonoBehaviour
 {
     public GameObject sandbagPrefab;
-    private readonly string sandbagTag = "playerSandbag";
-    
-    [SerializeField]
-    private float placeDist = 5;
+    private readonly string playerSandbagTag = "playerSandbag";
+    private readonly string defaultSandbagTag = "defaultSandbag";
+    private readonly string terrainTag = "terrain";
 
-    // Update is called once per frame
+    [SerializeField]
+    private float placeDist = 6;
+
+    /// <summary>
+    /// Controls placing/removing sandbags.
+    /// 
+    /// Right click terrain to place sand bag.
+    /// Right click + shift to remove sand bag.
+    /// 
+    /// Sandbags not placed by player will be hidden instead so that show/hiding pondside/lakeside sandbags re-enables those sandbags
+    /// </summary>
     void Update()
     {
         if (Input.GetMouseButtonDown(1))
         {
-            Vector3 playerPos = transform.position;
-            //Debug.DrawLine(playerPos, playerPos + (transform.forward * placeDist), Color.red, 100);
-            if (Physics.Raycast(playerPos, transform.forward, out RaycastHit hit))
+            // Removes sandbag
+            if(Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
             {
-                if (hit.distance < placeDist && (hit.collider.gameObject.tag == "terrain" || hit.collider.gameObject.name.ToLower().Contains("terrain")))
+                Vector3 playerPos = transform.position;
+                //Debug.DrawLine(playerPos, playerPos + (transform.forward * placeDist), Color.red, 100);
+                if (Physics.Raycast(playerPos, transform.forward, out RaycastHit hit))
                 {
-                    Quaternion playerRotation = transform.rotation * Quaternion.Euler(0, 90, 0);
-                    Quaternion sandbagRot = Quaternion.Euler(0, playerRotation.eulerAngles.y, 0);
-                    GameObject sandbag = Instantiate(sandbagPrefab, hit.point, sandbagRot);
-                    sandbag.tag = sandbagTag;
+                    if (hit.distance < placeDist)
+                    {
+                        GameObject hitObject = hit.collider.gameObject;
+                        if (hitObject.tag == playerSandbagTag)
+                        {
+                            Destroy(hitObject);
+                        }
+                        else if(hitObject.tag == defaultSandbagTag)
+                        {
+                            hitObject.SetActive(false);
+                        }
+                    }
                 }
             }
 
+            // Places Sandbags
+            else
+            {
+                Vector3 playerPos = transform.position;
+                //Debug.DrawLine(playerPos, playerPos + (transform.forward * placeDist), Color.red, 100);
+                if (Physics.Raycast(playerPos, transform.forward, out RaycastHit hit))
+                {
+                    if (hit.distance < placeDist && (hit.collider.gameObject.tag == terrainTag || hit.collider.gameObject.name.ToLower().Contains("terrain")))
+                    {
+                        Quaternion playerRotation = transform.rotation * Quaternion.Euler(0, 90, 0);
+                        Quaternion sandbagRot = Quaternion.Euler(0, playerRotation.eulerAngles.y, 0);
+                        GameObject sandbag = Instantiate(sandbagPrefab, hit.point, sandbagRot);
+                        sandbag.tag = playerSandbagTag;
+                    }
+                }
+            }
         }
     }
 }

@@ -41332,10 +41332,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1748402895593268549, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
-      propertyPath: placeDist
-      value: 6
-      objectReference: {fileID: 0}
     - target: {fileID: 2230944859644094852, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
       propertyPath: lakeSideSandbags
       value: 

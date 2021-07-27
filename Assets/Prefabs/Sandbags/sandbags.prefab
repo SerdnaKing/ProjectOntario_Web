@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4327505719014365568}
   m_Layer: 0
   m_Name: sandbags
-  m_TagString: Untagged
+  m_TagString: defaultSandbag
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

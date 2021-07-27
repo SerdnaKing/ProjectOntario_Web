@@ -6,6 +6,7 @@ TagManager:
   tags:
   - terrain
   - playerSandbag
+  - defaultSandbag
   layers:
   - Default
   - TransparentFX
