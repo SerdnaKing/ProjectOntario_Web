@@ -5,37 +5,25 @@ using UnityEngine.UI;
 
 public class FloodController : MonoBehaviour
 {
-
     public Slider UISlider;
     public GameObject PondWaterMask;
     public GameObject LakeWaterMask;
     public GameObject PondSandbags;
     public GameObject LakeSandbags;
 
+    private readonly float rateIncrementation = 0.002f;
+    private readonly float rateAcceleration = 1.01f;
+    private readonly float rateMaximum = 0.1f;
+
+    private float riseRate = 0;
+    private float sinkRate = 0;
 
     // Update is called once per frame
     void Update()
     {
-        /*  if (Input.GetKeyDown(KeyCode.I))
-          {
-          if (UISlider.value != 2)
-          {
-              UISlider.value += 1;
-              this.transform.Translate(Vector3.up * 1);
-          }
-          }
-          if (Input.GetKeyDown(KeyCode.K))
-          {
-          if(UISlider.value != 0)
-          {
-              UISlider.value -= 1;
-              this.transform.Translate(Vector3.down * 1);
-          }
-      }*/
+        transform.position = new Vector3(transform.position.x, UISlider.value - 10.28f, transform.position.z);
 
-        this.transform.position = new Vector3(this.transform.position.x, UISlider.value - 10.28f, this.transform.position.z);
-
-        if (this.transform.position.y >= -8.5 && LakeSandbags.activeSelf == true)
+        if (transform.position.y >= -8.5 && LakeSandbags.activeSelf == true)
         {
             LakeWaterMask.SetActive(false);
         }
@@ -49,7 +37,7 @@ public class FloodController : MonoBehaviour
         }
 
 
-        if (this.transform.position.y >= -9 && PondSandbags.activeSelf == true)
+        if (transform.position.y >= -9 && PondSandbags.activeSelf == true)
         {
             PondWaterMask.SetActive(false);
         }
@@ -63,6 +51,41 @@ public class FloodController : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Allows raising/lowering waterlevel with O and K keys.
+    /// The rates accelerates the longer you hold the key.
+    /// </summary>
+    void FixedUpdate()
+    {
+        if (UISlider)
+        {
+            // raises waterlevel
+            if (Input.GetKey(KeyCode.O))
+            {
+                if (riseRate == 0) riseRate = rateIncrementation;
+                riseRate = Mathf.Min(Mathf.Pow(riseRate + 1, rateAcceleration) - 1, rateMaximum);
+                UISlider.value += riseRate;
+            }
+            else
+            {
+                //reset rate
+                riseRate = 0;
+            }
+
+            // lowers waterlevel
+            if (Input.GetKey(KeyCode.K))
+            {
+                if (sinkRate == 0) sinkRate = rateIncrementation;
+                sinkRate = Mathf.Min(Mathf.Pow(sinkRate + 1, rateAcceleration) - 1, rateMaximum);
+                UISlider.value -= sinkRate;
+            }
+            else
+            {
+                //reset rate
+                sinkRate = 0;
+            }
+        }
+    }
 
     void OnGUI()
     {

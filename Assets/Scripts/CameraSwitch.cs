@@ -81,6 +81,10 @@ public class CameraSwitch : MonoBehaviour
     {
         // Make sure only the player is enabled on startup
         SwitchCamera(0);
+
+        // Prevents cursor going off screen when looking around
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     // Update is called once per frame
