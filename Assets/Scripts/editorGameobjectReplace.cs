@@ -9,7 +9,7 @@ public class editorGameobjectReplace : ScriptableWizard
     public GameObject ReplacementPrefab;
     public GameObject ParentWithChildrenToReplace;
 
-    [MenuItem("Custom/Replace GameObjects")]
+    [MenuItem("EditorScripts/Replace GameObjects")]
 
 
     static void CreateWizard()
