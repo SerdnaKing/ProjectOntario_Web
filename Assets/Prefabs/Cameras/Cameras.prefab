@@ -43,30 +43,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!114 &8105839595375591519
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2283935988533122322}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b0c0a69611596146aceb2f60532940c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _version: 0
-  _filterOceanData: 13
-  _meniscus: 1
-  _copyOceanMaterialParamsEachFrame: 1
-  _farPlaneMultiplier: 0.68
-  _useHorizonSafetyMarginMultiplier: 0
-  _horizonSafetyMarginMultiplier: 0.01
-  _scaleSafetyMarginWithDynamicResolution: 1
-  _debug:
-    _viewOceanMask: 0
-    _disableOceanMask: 0
-    _disableHeightAboveWaterOptimization: 0
 --- !u!114 &6818777154693314270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -99,6 +75,30 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
+--- !u!114 &8105839595375591519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2283935988533122322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b0c0a69611596146aceb2f60532940c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _version: 0
+  _filterOceanData: 13
+  _meniscus: 1
+  _copyOceanMaterialParamsEachFrame: 1
+  _farPlaneMultiplier: 0.68
+  _useHorizonSafetyMarginMultiplier: 0
+  _horizonSafetyMarginMultiplier: 0.01
+  _scaleSafetyMarginWithDynamicResolution: 1
+  _debug:
+    _viewOceanMask: 0
+    _disableOceanMask: 0
+    _disableHeightAboveWaterOptimization: 0
 --- !u!20 &2549490969042020314
 Camera:
   m_ObjectHideFlags: 0
@@ -305,7 +305,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4303725742658278821
 Transform:
   m_ObjectHideFlags: 0
@@ -510,7 +510,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4303725743021196387
 Transform:
   m_ObjectHideFlags: 0
@@ -628,7 +628,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4303725743369697257
 Transform:
   m_ObjectHideFlags: 0
@@ -746,7 +746,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4303725743466022149
 Transform:
   m_ObjectHideFlags: 0
@@ -1186,30 +1186,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!114 &5921397165524415896
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7267332661188444063}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b0c0a69611596146aceb2f60532940c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _version: 0
-  _filterOceanData: 13
-  _meniscus: 1
-  _copyOceanMaterialParamsEachFrame: 1
-  _farPlaneMultiplier: 0.68
-  _useHorizonSafetyMarginMultiplier: 0
-  _horizonSafetyMarginMultiplier: 0.01
-  _scaleSafetyMarginWithDynamicResolution: 1
-  _debug:
-    _viewOceanMask: 0
-    _disableOceanMask: 0
-    _disableHeightAboveWaterOptimization: 0
 --- !u!114 &3386541040496604033
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1242,6 +1218,30 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
+--- !u!114 &5921397165524415896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7267332661188444063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b0c0a69611596146aceb2f60532940c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _version: 0
+  _filterOceanData: 13
+  _meniscus: 1
+  _copyOceanMaterialParamsEachFrame: 1
+  _farPlaneMultiplier: 0.68
+  _useHorizonSafetyMarginMultiplier: 0
+  _horizonSafetyMarginMultiplier: 0.01
+  _scaleSafetyMarginWithDynamicResolution: 1
+  _debug:
+    _viewOceanMask: 0
+    _disableOceanMask: 0
+    _disableHeightAboveWaterOptimization: 0
 --- !u!20 &4700187493328007583
 Camera:
   m_ObjectHideFlags: 0
