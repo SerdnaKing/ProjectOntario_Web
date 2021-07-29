@@ -25,13 +25,13 @@ public class PlayerSandbag : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(1))
         {
-            GameObject camera = cameraController.GetActiveCamera();
+            Camera camera = cameraController.GetActiveCamera();
 
             // Removes sandbag
             if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
             {
                 Vector3 playerPos = camera.transform.position;
-                //Debug.DrawLine(playerPos, playerPos + (transform.forward * placeDist), Color.red, 100);
+                Debug.DrawLine(playerPos, playerPos + (transform.forward * placeDist), Color.red, 100);
                 if (Physics.Raycast(playerPos, camera.transform.forward, out RaycastHit hit))
                 {
                     if (hit.distance < placeDist)
@@ -53,7 +53,7 @@ public class PlayerSandbag : MonoBehaviour
             else
             {
                 Vector3 playerPos = camera.transform.position;
-                //Debug.DrawLine(playerPos, playerPos + (transform.forward * placeDist), Color.red, 100);
+                Debug.DrawLine(playerPos, playerPos + (camera.transform.forward * placeDist), Color.red, 100);
                 if (Physics.Raycast(playerPos, camera.transform.forward, out RaycastHit hit))
                 {
                     if (hit.distance < placeDist && (hit.collider.gameObject.tag == terrainTag || hit.collider.gameObject.name.ToLower().Contains("terrain")))

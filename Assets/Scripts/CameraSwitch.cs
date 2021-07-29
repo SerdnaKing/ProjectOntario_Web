@@ -123,13 +123,18 @@ public class CameraSwitch : MonoBehaviour
         }
     }
 
-    public GameObject GetActiveCamera()
+    public Camera GetActiveCamera()
     {
         for (int i = 0; i < camList.Count; i++)
         {
             if (camList[i].activeSelf)
             {
-                return camList[i];
+                Camera camera = camList[i].GetComponent<Camera>();
+                if (!camera)
+                {
+                    camera = camList[i].GetComponentInChildren<Camera>();
+                }
+                return camera;
             }
         }
 
