@@ -122,4 +122,17 @@ public class CameraSwitch : MonoBehaviour
             SwitchCamera(4);
         }
     }
+
+    public GameObject GetActiveCamera()
+    {
+        for (int i = 0; i < camList.Count; i++)
+        {
+            if (camList[i].activeSelf)
+            {
+                return camList[i];
+            }
+        }
+
+        return null;
+    }
 }

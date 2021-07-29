@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerSandbag : MonoBehaviour
 {
     public GameObject sandbagPrefab;
+    public CameraSwitch cameraController;
     private readonly string playerSandbagTag = "playerSandbag";
     private readonly string defaultSandbagTag = "defaultSandbag";
     private readonly string terrainTag = "terrain";
@@ -24,12 +25,14 @@ public class PlayerSandbag : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(1))
         {
+            GameObject camera = cameraController.GetActiveCamera();
+
             // Removes sandbag
-            if(Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+            if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
             {
-                Vector3 playerPos = Camera.current.transform.position;
+                Vector3 playerPos = camera.transform.position;
                 //Debug.DrawLine(playerPos, playerPos + (transform.forward * placeDist), Color.red, 100);
-                if (Physics.Raycast(playerPos, Camera.current.transform.forward, out RaycastHit hit))
+                if (Physics.Raycast(playerPos, camera.transform.forward, out RaycastHit hit))
                 {
                     if (hit.distance < placeDist)
                     {
@@ -49,13 +52,13 @@ public class PlayerSandbag : MonoBehaviour
             // Places Sandbags
             else
             {
-                Vector3 playerPos = Camera.current.transform.position;
+                Vector3 playerPos = camera.transform.position;
                 //Debug.DrawLine(playerPos, playerPos + (transform.forward * placeDist), Color.red, 100);
-                if (Physics.Raycast(playerPos, Camera.current.transform.forward, out RaycastHit hit))
+                if (Physics.Raycast(playerPos, camera.transform.forward, out RaycastHit hit))
                 {
                     if (hit.distance < placeDist && (hit.collider.gameObject.tag == terrainTag || hit.collider.gameObject.name.ToLower().Contains("terrain")))
                     {
-                        Quaternion playerRotation = Camera.current.transform.rotation * Quaternion.Euler(0, 90, 0);
+                        Quaternion playerRotation = camera.transform.rotation * Quaternion.Euler(0, 90, 0);
                         Quaternion sandbagRot = Quaternion.Euler(0, playerRotation.eulerAngles.y, 0);
                         GameObject sandbag = Instantiate(sandbagPrefab, hit.point, sandbagRot);
                         sandbag.tag = playerSandbagTag;
