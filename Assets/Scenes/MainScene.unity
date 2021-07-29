@@ -123,6 +123,17 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &1733350274 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3126840478030990607, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+  m_PrefabInstance: {fileID: 3126840478887723283}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dde37eff0f7685f41902f400d1de0c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &3126840478887723283
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -130,6 +141,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3110966018899637599, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_Depth
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840478499334455, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_StopNaN
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840478499334455, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_Antialiasing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840478499334455, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresOpaqueTextureOption
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840478502185792, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: lakeRenderer
+      value: 
+      objectReference: {fileID: 1733350274}
     - target: {fileID: 3126840479525254040, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0

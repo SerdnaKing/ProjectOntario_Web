@@ -1,5 +1,5 @@
 /* Noah Richards
- * 7/13/2021 - 7/28/2021
+ * 7/13/2021 - 7/29/2021
  * CameraSwitch.cs - Camera Switching Code for Project Lake Ontario
  */
 
