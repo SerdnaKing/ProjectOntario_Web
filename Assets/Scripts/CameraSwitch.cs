@@ -1,5 +1,5 @@
 /* Noah Richards
- * 7/13/2021 - 7/29/2021
+ * 7/13/2021 - 7/30/2021
  * CameraSwitch.cs - Camera Switching Code for Project Lake Ontario
  */
 
@@ -11,6 +11,7 @@ public class CameraSwitch : MonoBehaviour
 {
     public List<GameObject> camList = new List<GameObject>();
     public Crest.OceanRenderer lakeRenderer = null;
+    public Camera playerCam;
 
     /// <summary>
     /// Switches to the Camera in camList with the name given.
@@ -72,7 +73,12 @@ public class CameraSwitch : MonoBehaviour
 
                 if (lakeRenderer != null)
                 {
-                    lakeRenderer.ViewCamera = camList[i].GetComponent<Camera>();
+                    if (camList[i].tag == "Player")
+                    {
+                        lakeRenderer.ViewCamera = playerCam;
+                    }
+                    else
+                        lakeRenderer.ViewCamera = camList[i].GetComponent<Camera>();
                 }
                 else
                 {
