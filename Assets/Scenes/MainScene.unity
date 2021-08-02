@@ -158,12 +158,20 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3126840478502185792, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: playerCam
+      value: 
+      objectReference: {fileID: 3126840478887723284}
+    - target: {fileID: 3126840478502185792, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
       propertyPath: lakeRenderer
       value: 
       objectReference: {fileID: 1733350274}
     - target: {fileID: 3126840479525254040, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3224710872125191054, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3838516918768366323, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
       propertyPath: m_RootOrder
@@ -209,9 +217,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4152161500177167441, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8383276805040914884, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
       propertyPath: m_Name
       value: LakeOntario
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+--- !u!20 &3126840478887723284 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 2706666340332955135, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+  m_PrefabInstance: {fileID: 3126840478887723283}
+  m_PrefabAsset: {fileID: 0}
