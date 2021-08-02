@@ -16,7 +16,7 @@ public class particles : MonoBehaviour
 
     void Update()
     {
-        if(water.transform.position.y >= height-11.4)
+        if(water.transform.position.y >=  height-1.5)
         {
             Debug.Log("particle should play now");
             smoke.Play();
