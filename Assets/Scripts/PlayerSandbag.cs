@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerSandbag : MonoBehaviour
 {
     public GameObject sandbagPrefab;
+    public GameObject maskingPrefab;
     public CameraSwitch cameraController;
     private readonly string playerSandbagTag = "playerSandbag";
     private readonly string defaultSandbagTag = "defaultSandbag";
@@ -49,7 +50,7 @@ public class PlayerSandbag : MonoBehaviour
                 }
             }
 
-            // Places Sandbags
+            // Places Sandbags and Mask
             else
             {
                 Vector3 playerPos = camera.transform.position;
@@ -62,6 +63,10 @@ public class PlayerSandbag : MonoBehaviour
                         Quaternion sandbagRot = Quaternion.Euler(0, playerRotation.eulerAngles.y, 0);
                         GameObject sandbag = Instantiate(sandbagPrefab, hit.point, sandbagRot);
                         sandbag.tag = playerSandbagTag;
+
+                       
+                        GameObject mask = Instantiate(maskingPrefab, new Vector3(hit.point.x - 1, hit.point.y, hit.point.z), sandbagRot);
+                        
                     }
                 }
             }
