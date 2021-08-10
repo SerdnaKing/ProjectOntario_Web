@@ -265,6 +265,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2999164270678290365, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresDepthTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2999164270678290365, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresOpaqueTextureOption
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3110966018899637599, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
       propertyPath: m_Depth
       value: -1
@@ -289,6 +297,38 @@ PrefabInstance:
       propertyPath: lakeRenderer
       value: 
       objectReference: {fileID: 1733350274}
+    - target: {fileID: 3126840478903052901, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresDepthTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840478903052901, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresOpaqueTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840478947244967, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresDepthTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840478947244967, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresOpaqueTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840479213202183, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresDepthTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840479213202183, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresOpaqueTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840479290660883, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresDepthTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126840479290660883, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresOpaqueTextureOption
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3126840479525254040, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -348,6 +388,22 @@ PrefabInstance:
     - target: {fileID: 4152161500177167441, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5174704490335908349, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresDepthTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5174704490335908349, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresOpaqueTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7992676604382698158, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresDepthTextureOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7992676604382698158, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
+      propertyPath: m_RequiresOpaqueTextureOption
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8383276805040914884, guid: 63639602a56ab2942904d2980f23e2ed, type: 3}
       propertyPath: m_Name
